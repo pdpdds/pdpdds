@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/C++?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
 
 **이력** 
 
