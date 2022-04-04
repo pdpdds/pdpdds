@@ -28,7 +28,8 @@
 - [『SDL과 C++를 이용한 크로스 플랫폼 프로그래밍』](https://book.naver.com/bookdb/book_detail.nhn?bid=9429900)
 - [『C++로 나만의 운영체제 만들기』](http://www.acornpub.co.kr/book/cplus-os-development) 
 - [『YUZA OS Vol.1 - 소프트웨어편』](http://www.acornpub.co.kr/book/yuza-os1) 
-- 『YUZA OS Vol.2 - 하드웨어편』
+- 『YUZA OS Vol.2 - 하드웨어편』 출간예정
+- 『레트로 게임 프로그래밍』 출간예정
 
 **번역서**
 
