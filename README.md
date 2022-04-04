@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/C++?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
+
 **이력** 
 
 - 서강대학교 컴퓨터공학 물리학 복수전공 
