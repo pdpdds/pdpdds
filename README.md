@@ -2,6 +2,10 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
+[![Juhang Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdpdds)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
+
 **이력** 
 
 - 서강대학교 컴퓨터공학 물리학 복수전공 
@@ -42,11 +46,7 @@
 **강의**
 
 - 서강대 게임교육원 시스템 프로그래밍(2010)
-- KGC 오픈소스를 활용한 게임서버 개발(2012)
-
-[![Juhang Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdpdds)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+- KGC 오픈소스를 활용한 게임서버 개발(2012)                 
 
 <!--
 **pdpdds/pdpdds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
