@@ -39,6 +39,8 @@
 **위키독스**
 
 - [『알레그로4 엔진을 활용한 도스 게임 프로그래밍』](https://wikidocs.net/book/6637)
+- [『MSX 게임 프로그래밍 VOL 1』](https://wikidocs.net/book/6654)
+- [『MSX 게임 프로그래밍 VOL 2』](https://wikidocs.net/book/7804) 작업중
 - [『C++ 개발자를 위한 WIN32 오픈소스 라이브러리 100 Vol. 2』](https://wikidocs.net/book/6606)
 - [『YUZA OS Vol.1 - 소프트웨어편 2편』](https://wikidocs.net/book/6625) 작업중
 - [『SDL과 C++를 이용한 크로스 플랫폼 프로그래밍 Vol 2』](https://wikidocs.net/book/6636) 작업중
