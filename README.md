@@ -34,8 +34,8 @@
 **번역서**
 
  - [『데이터베이스 첫걸음』](https://book.naver.com/bookdb/book_detail.nhn?bid=11154846)
- - [『Game Programming in C++』](http://www.acornpub.co.kr/book/game-programming-c)
- - 『제로에서 시작하는 OS 자작입문』
+ - [『Game Programming in C++』](http://www.acornpub.co.kr/book/game-programming-c)  
+ - [『제로에서 시작하는 OS 자작입문』](http://www.acornpub.co.kr/book/operating-system)
 
 **위키독스**
 
